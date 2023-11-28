@@ -31,8 +31,7 @@ public abstract class MainController {
 
     }
 
-    /**
-     * 
-     */
+    public static List<Position> getAvailablePositions() {
 
+    }
 }
